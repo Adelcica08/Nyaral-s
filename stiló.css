@@ -13,6 +13,7 @@ text-align: center;
 
 }
 
+
 .bg-image{
     height: 100vh;
     width: 100vw;
@@ -33,8 +34,9 @@ p{
 }
 
 .carousel-inner img {
-    width: 100%;
-    height: 90%;
+  width: 100px; 
+  height: 20px;
+    
 }
 
 .footer {
